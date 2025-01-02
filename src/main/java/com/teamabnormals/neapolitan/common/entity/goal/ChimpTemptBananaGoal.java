@@ -98,7 +98,5 @@ public class ChimpTemptBananaGoal extends Goal {
 		} else {
 			this.forgetTimer = this.adjustedTickDelay(200);
 		}
-
-		System.out.println(this.patience);
 	}
 }
